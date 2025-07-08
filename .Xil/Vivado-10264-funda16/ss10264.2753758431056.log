@@ -1,0 +1,8 @@
+srcscan starts
+srcscan: Caught exception in shared_memory linking
+srcscan exits with return value -1
+oops, compressed class ptrs, g1 gc, windows-amd64)
+# Problematic frame:
+# srcscan starts
+srcscan: Caught exception in shared_memory linking
+srcscan exits with return value -1
